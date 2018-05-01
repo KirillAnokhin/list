@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525179932 source:/home/user/prog/list/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525180254 source:/home/user/prog/list/func.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1525180252 /home/user/prog/list/list.h
+
